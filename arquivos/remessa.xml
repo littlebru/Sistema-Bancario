@@ -1,0 +1,987 @@
+<list>
+	<br.com.pageseguro.RemessaCartaoCredito>
+		<nome>Adelaide Carvalhaes</nome>
+		<CPF>56608514522</CPF>
+		<bancoRecebimento>Caixa Econômica</bancoRecebimento>
+		<bancoPagamento>Banco Safra</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>362.4101749037519</valor>
+		<numeroCartao>98315792</numeroCartao>
+		<nomeTitular>LIEDSON LAGO</nomeTitular>
+		<parcelas>2</parcelas>
+	</br.com.pageseguro.RemessaCartaoCredito>
+	<br.com.pageseguro.RemessaCartaoCredito>
+		<nome>Viriato Ayres</nome>
+		<CPF>41057727598</CPF>
+		<bancoRecebimento>Banco do Brasil</bancoRecebimento>
+		<bancoPagamento>Banco do Brasil</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>475.60665046855246</valor>
+		<numeroCartao>92579840</numeroCartao>
+		<nomeTitular>VIRIATO AYRES</nomeTitular>
+		<parcelas>6</parcelas>
+	</br.com.pageseguro.RemessaCartaoCredito>
+	<br.com.pageseguro.RemessaCartaoCredito>
+		<nome>Laís Felgueiras</nome>
+		<CPF>46708681102</CPF>
+		<bancoRecebimento>Banco do Brasil</bancoRecebimento>
+		<bancoPagamento>Bradesco</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>471.9858123222339</valor>
+		<numeroCartao>46561631</numeroCartao>
+		<nomeTitular>ADELAIDE CARVALHAES</nomeTitular>
+		<parcelas>10</parcelas>
+	</br.com.pageseguro.RemessaCartaoCredito>
+	<br.com.pageseguro.RemessaBoleto>
+		<nome>Sandoval Félix</nome>
+		<CPF>87478000207</CPF>
+		<bancoRecebimento>Banco do Brasil</bancoRecebimento>
+		<bancoPagamento>Bradesco</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>328.8093068652568</valor>
+		<numeroBoleto>88604651</numeroBoleto>
+	</br.com.pageseguro.RemessaBoleto>
+	<br.com.pageseguro.RemessaBoleto>
+		<nome>Cecília Castelhano</nome>
+		<CPF>41057727598</CPF>
+		<bancoRecebimento>Bradesco</bancoRecebimento>
+		<bancoPagamento>Caixa Econômica</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>351.74512378918234</valor>
+		<numeroBoleto>25666569</numeroBoleto>
+	</br.com.pageseguro.RemessaBoleto>
+	<br.com.pageseguro.RemessaBoleto>
+		<nome>Silvano Manso</nome>
+		<CPF>16104178448</CPF>
+		<bancoRecebimento>Santander</bancoRecebimento>
+		<bancoPagamento>Banco Safra</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>120.40600056664779</valor>
+		<numeroBoleto>59266966</numeroBoleto>
+	</br.com.pageseguro.RemessaBoleto>
+	<br.com.pageseguro.RemessaBoleto>
+		<nome>Serafina Inácio</nome>
+		<CPF>46708681102</CPF>
+		<bancoRecebimento>Banco Safra</bancoRecebimento>
+		<bancoPagamento>Caixa Econômica</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>183.09150907608768</valor>
+		<numeroBoleto>35692644</numeroBoleto>
+	</br.com.pageseguro.RemessaBoleto>
+	<br.com.pageseguro.RemessaCartaoDebito>
+		<nome>Laís Felgueiras</nome>
+		<CPF>52147655106</CPF>
+		<bancoRecebimento>Caixa Econômica</bancoRecebimento>
+		<bancoPagamento>Banco do Brasil</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>308.5937847567475</valor>
+		<numeroCartao>14225225</numeroCartao>
+		<nomeTitular>HONÓRIO CASTELO BRANCO</nomeTitular>
+	</br.com.pageseguro.RemessaCartaoDebito>
+	<br.com.pageseguro.RemessaCartaoDebito>
+		<nome>Ajuricaba Aldeia</nome>
+		<CPF>15066274391</CPF>
+		<bancoRecebimento>Banco do Brasil</bancoRecebimento>
+		<bancoPagamento>Banco do Brasil</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>279.32220179390634</valor>
+		<numeroCartao>98785999</numeroCartao>
+		<nomeTitular>AJURICABA ALDEIA</nomeTitular>
+	</br.com.pageseguro.RemessaCartaoDebito>
+	<br.com.pageseguro.RemessaCartaoCredito>
+		<nome>Alzira Jaguaribe</nome>
+		<CPF>46708681102</CPF>
+		<bancoRecebimento>Santander</bancoRecebimento>
+		<bancoPagamento>Santander</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>162.4667023120927</valor>
+		<numeroCartao>90574069</numeroCartao>
+		<nomeTitular>OFÉLIA CISNEROS</nomeTitular>
+		<parcelas>10</parcelas>
+	</br.com.pageseguro.RemessaCartaoCredito>
+	<br.com.pageseguro.RemessaCartaoCredito>
+		<nome>Sidónio Fraga</nome>
+		<CPF>87478000207</CPF>
+		<bancoRecebimento>Bradesco</bancoRecebimento>
+		<bancoPagamento>Santander</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>47.86525479901543</valor>
+		<numeroCartao>75593969</numeroCartao>
+		<nomeTitular>VIRIATO AYRES</nomeTitular>
+		<parcelas>8</parcelas>
+	</br.com.pageseguro.RemessaCartaoCredito>
+	<br.com.pageseguro.RemessaCartaoCredito>
+		<nome>Ajuricaba Aldeia</nome>
+		<CPF>57301112157</CPF>
+		<bancoRecebimento>Banco Safra</bancoRecebimento>
+		<bancoPagamento>Santander</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>286.7638275709726</valor>
+		<numeroCartao>53875197</numeroCartao>
+		<nomeTitular>LAÍS FELGUEIRAS</nomeTitular>
+		<parcelas>1</parcelas>
+	</br.com.pageseguro.RemessaCartaoCredito>
+	<br.com.pageseguro.RemessaBoleto>
+		<nome>Serafina Inácio</nome>
+		<CPF>12142626190</CPF>
+		<bancoRecebimento>Caixa Econômica</bancoRecebimento>
+		<bancoPagamento>Caixa Econômica</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>67.7821389228998</valor>
+		<numeroBoleto>99902557</numeroBoleto>
+	</br.com.pageseguro.RemessaBoleto>
+	<br.com.pageseguro.RemessaBoleto>
+		<nome>Adelaide Carvalhaes</nome>
+		<CPF>16104178448</CPF>
+		<bancoRecebimento>Caixa Econômica</bancoRecebimento>
+		<bancoPagamento>Santander</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>188.77757337238705</valor>
+		<numeroBoleto>41732379</numeroBoleto>
+	</br.com.pageseguro.RemessaBoleto>
+	<br.com.pageseguro.RemessaCartaoCredito>
+		<nome>Zózimo Aragón</nome>
+		<CPF>73366162759</CPF>
+		<bancoRecebimento>Itaú</bancoRecebimento>
+		<bancoPagamento>Banco do Brasil</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>258.8711378706908</valor>
+		<numeroCartao>16573568</numeroCartao>
+		<nomeTitular>CARMINDA BECERRIL</nomeTitular>
+		<parcelas>9</parcelas>
+	</br.com.pageseguro.RemessaCartaoCredito>
+	<br.com.pageseguro.RemessaCartaoCredito>
+		<nome>Carminda Becerril</nome>
+		<CPF>27310563042</CPF>
+		<bancoRecebimento>Banco Safra</bancoRecebimento>
+		<bancoPagamento>Banco do Brasil</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>70.64473343476546</valor>
+		<numeroCartao>92689697</numeroCartao>
+		<nomeTitular>MILENA INFANTE</nomeTitular>
+		<parcelas>11</parcelas>
+	</br.com.pageseguro.RemessaCartaoCredito>
+	<br.com.pageseguro.RemessaCartaoCredito>
+		<nome>Ajuricaba Aldeia</nome>
+		<CPF>18251384273</CPF>
+		<bancoRecebimento>Itaú</bancoRecebimento>
+		<bancoPagamento>Banco Safra</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>180.10225801566392</valor>
+		<numeroCartao>26752231</numeroCartao>
+		<nomeTitular>FRANCISCA VALLE</nomeTitular>
+		<parcelas>9</parcelas>
+	</br.com.pageseguro.RemessaCartaoCredito>
+	<br.com.pageseguro.RemessaBoleto>
+		<nome>Silvano Manso</nome>
+		<CPF>23258743541</CPF>
+		<bancoRecebimento>Caixa Econômica</bancoRecebimento>
+		<bancoPagamento>Itaú</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>149.6370094233298</valor>
+		<numeroBoleto>59652616</numeroBoleto>
+	</br.com.pageseguro.RemessaBoleto>
+	<br.com.pageseguro.RemessaBoleto>
+		<nome>Ofélia Cisneros</nome>
+		<CPF>87478000207</CPF>
+		<bancoRecebimento>Banco Safra</bancoRecebimento>
+		<bancoPagamento>Caixa Econômica</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>180.93032585953895</valor>
+		<numeroBoleto>46556559</numeroBoleto>
+	</br.com.pageseguro.RemessaBoleto>
+	<br.com.pageseguro.RemessaBoleto>
+		<nome>Milena Infante</nome>
+		<CPF>27310563042</CPF>
+		<bancoRecebimento>Bradesco</bancoRecebimento>
+		<bancoPagamento>Itaú</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>8.20439246928617</valor>
+		<numeroBoleto>39256740</numeroBoleto>
+	</br.com.pageseguro.RemessaBoleto>
+	<br.com.pageseguro.RemessaBoleto>
+		<nome>Daniela Graça</nome>
+		<CPF>16674656607</CPF>
+		<bancoRecebimento>Banco do Brasil</bancoRecebimento>
+		<bancoPagamento>Itaú</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>328.42910436309313</valor>
+		<numeroBoleto>10784431</numeroBoleto>
+	</br.com.pageseguro.RemessaBoleto>
+	<br.com.pageseguro.RemessaCartaoDebito>
+		<nome>Ajuricaba Aldeia</nome>
+		<CPF>23258743541</CPF>
+		<bancoRecebimento>Itaú</bancoRecebimento>
+		<bancoPagamento>Itaú</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>366.220411451195</valor>
+		<numeroCartao>25533156</numeroCartao>
+		<nomeTitular>NÁDIA FERNÁNDEZ</nomeTitular>
+	</br.com.pageseguro.RemessaCartaoDebito>
+	<br.com.pageseguro.RemessaBoleto>
+		<nome>Cecília Castelhano</nome>
+		<CPF>70128756233</CPF>
+		<bancoRecebimento>Banco Safra</bancoRecebimento>
+		<bancoPagamento>Caixa Econômica</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>236.88811062278248</valor>
+		<numeroBoleto>45602066</numeroBoleto>
+	</br.com.pageseguro.RemessaBoleto>
+	<br.com.pageseguro.RemessaBoleto>
+		<nome>Cecília Castelhano</nome>
+		<CPF>13234771286</CPF>
+		<bancoRecebimento>Caixa Econômica</bancoRecebimento>
+		<bancoPagamento>Banco Safra</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>26.01171684993958</valor>
+		<numeroBoleto>27403159</numeroBoleto>
+	</br.com.pageseguro.RemessaBoleto>
+	<br.com.pageseguro.RemessaCartaoDebito>
+		<nome>Liedson Lago</nome>
+		<CPF>73366162759</CPF>
+		<bancoRecebimento>Banco do Brasil</bancoRecebimento>
+		<bancoPagamento>Banco do Brasil</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>351.8014629682494</valor>
+		<numeroCartao>68655951</numeroCartao>
+		<nomeTitular>ALZIRA JAGUARIBE</nomeTitular>
+	</br.com.pageseguro.RemessaCartaoDebito>
+	<br.com.pageseguro.RemessaBoleto>
+		<nome>Guiomar Marrero</nome>
+		<CPF>56608514522</CPF>
+		<bancoRecebimento>Caixa Econômica</bancoRecebimento>
+		<bancoPagamento>Banco Safra</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>131.26663650032555</valor>
+		<numeroBoleto>90903987</numeroBoleto>
+	</br.com.pageseguro.RemessaBoleto>
+	<br.com.pageseguro.RemessaBoleto>
+		<nome>Adelaide Carvalhaes</nome>
+		<CPF>65453761520</CPF>
+		<bancoRecebimento>Santander</bancoRecebimento>
+		<bancoPagamento>Caixa Econômica</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>455.90083696846494</valor>
+		<numeroBoleto>92225551</numeroBoleto>
+	</br.com.pageseguro.RemessaBoleto>
+	<br.com.pageseguro.RemessaCartaoDebito>
+		<nome>Alzira Jaguaribe</nome>
+		<CPF>52147655106</CPF>
+		<bancoRecebimento>Bradesco</bancoRecebimento>
+		<bancoPagamento>Banco Safra</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>282.81315193983596</valor>
+		<numeroCartao>58398759</numeroCartao>
+		<nomeTitular>RAFAEL CAMILLO</nomeTitular>
+	</br.com.pageseguro.RemessaCartaoDebito>
+	<br.com.pageseguro.RemessaBoleto>
+		<nome>Liedson Lago</nome>
+		<CPF>50845738429</CPF>
+		<bancoRecebimento>Bradesco</bancoRecebimento>
+		<bancoPagamento>Santander</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>216.4534980046051</valor>
+		<numeroBoleto>43927373</numeroBoleto>
+	</br.com.pageseguro.RemessaBoleto>
+	<br.com.pageseguro.RemessaCartaoDebito>
+		<nome>Sandoval Félix</nome>
+		<CPF>50845738429</CPF>
+		<bancoRecebimento>Banco do Brasil</bancoRecebimento>
+		<bancoPagamento>Bradesco</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>485.60155283288725</valor>
+		<numeroCartao>83925383</numeroCartao>
+		<nomeTitular>SANDOVAL FÉLIX</nomeTitular>
+	</br.com.pageseguro.RemessaCartaoDebito>
+	<br.com.pageseguro.RemessaCartaoCredito>
+		<nome>Milena Infante</nome>
+		<CPF>69607117360</CPF>
+		<bancoRecebimento>Banco Safra</bancoRecebimento>
+		<bancoPagamento>Banco do Brasil</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>127.43445814996835</valor>
+		<numeroCartao>46454587</numeroCartao>
+		<nomeTitular>MILU DÍAZ</nomeTitular>
+		<parcelas>12</parcelas>
+	</br.com.pageseguro.RemessaCartaoCredito>
+	<br.com.pageseguro.RemessaCartaoDebito>
+		<nome>Sidónio Fraga</nome>
+		<CPF>45074358892</CPF>
+		<bancoRecebimento>Caixa Econômica</bancoRecebimento>
+		<bancoPagamento>Caixa Econômica</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>44.15046260408179</valor>
+		<numeroCartao>56404541</numeroCartao>
+		<nomeTitular>ELBA MEDEIROS</nomeTitular>
+	</br.com.pageseguro.RemessaCartaoDebito>
+	<br.com.pageseguro.RemessaCartaoDebito>
+		<nome>Guiomar Marrero</nome>
+		<CPF>60765573628</CPF>
+		<bancoRecebimento>Banco Safra</bancoRecebimento>
+		<bancoPagamento>Banco Safra</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>90.9225787958251</valor>
+		<numeroCartao>51559835</numeroCartao>
+		<nomeTitular>NÁDIA FERNÁNDEZ</nomeTitular>
+	</br.com.pageseguro.RemessaCartaoDebito>
+	<br.com.pageseguro.RemessaBoleto>
+		<nome>Serafina Inácio</nome>
+		<CPF>15066274391</CPF>
+		<bancoRecebimento>Banco do Brasil</bancoRecebimento>
+		<bancoPagamento>Banco Safra</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>349.4079592492625</valor>
+		<numeroBoleto>99227056</numeroBoleto>
+	</br.com.pageseguro.RemessaBoleto>
+	<br.com.pageseguro.RemessaBoleto>
+		<nome>Silvano Manso</nome>
+		<CPF>13234771286</CPF>
+		<bancoRecebimento>Banco do Brasil</bancoRecebimento>
+		<bancoPagamento>Santander</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>354.26354268733706</valor>
+		<numeroBoleto>65693339</numeroBoleto>
+	</br.com.pageseguro.RemessaBoleto>
+	<br.com.pageseguro.RemessaBoleto>
+		<nome>Rafael Camillo</nome>
+		<CPF>57301112157</CPF>
+		<bancoRecebimento>Banco do Brasil</bancoRecebimento>
+		<bancoPagamento>Bradesco</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>393.69658761660094</valor>
+		<numeroBoleto>76699758</numeroBoleto>
+	</br.com.pageseguro.RemessaBoleto>
+	<br.com.pageseguro.RemessaCartaoCredito>
+		<nome>Liedson Lago</nome>
+		<CPF>70128756233</CPF>
+		<bancoRecebimento>Santander</bancoRecebimento>
+		<bancoPagamento>Caixa Econômica</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>274.8469056255201</valor>
+		<numeroCartao>87974160</numeroCartao>
+		<nomeTitular>SANDOVAL FÉLIX</nomeTitular>
+		<parcelas>1</parcelas>
+	</br.com.pageseguro.RemessaCartaoCredito>
+	<br.com.pageseguro.RemessaCartaoDebito>
+		<nome>Apuã Castelo</nome>
+		<CPF>57301112157</CPF>
+		<bancoRecebimento>Itaú</bancoRecebimento>
+		<bancoPagamento>Bradesco</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>236.46749173400138</valor>
+		<numeroCartao>25446592</numeroCartao>
+		<nomeTitular>MAIARA AMORÍN</nomeTitular>
+	</br.com.pageseguro.RemessaCartaoDebito>
+	<br.com.pageseguro.RemessaBoleto>
+		<nome>Elba Medeiros</nome>
+		<CPF>23258743541</CPF>
+		<bancoRecebimento>Itaú</bancoRecebimento>
+		<bancoPagamento>Caixa Econômica</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>225.98289761446506</valor>
+		<numeroBoleto>68573198</numeroBoleto>
+	</br.com.pageseguro.RemessaBoleto>
+	<br.com.pageseguro.RemessaBoleto>
+		<nome>Honório Castelo Branco</nome>
+		<CPF>45074358892</CPF>
+		<bancoRecebimento>Banco Safra</bancoRecebimento>
+		<bancoPagamento>Banco Safra</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>110.3653657530051</valor>
+		<numeroBoleto>52975183</numeroBoleto>
+	</br.com.pageseguro.RemessaBoleto>
+	<br.com.pageseguro.RemessaCartaoCredito>
+		<nome>Aniana Ochoa</nome>
+		<CPF>46708681102</CPF>
+		<bancoRecebimento>Banco Safra</bancoRecebimento>
+		<bancoPagamento>Santander</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>415.12275226170374</valor>
+		<numeroCartao>66104497</numeroCartao>
+		<nomeTitular>ADELAIDE CARVALHAES</nomeTitular>
+		<parcelas>10</parcelas>
+	</br.com.pageseguro.RemessaCartaoCredito>
+	<br.com.pageseguro.RemessaBoleto>
+		<nome>Milu Díaz</nome>
+		<CPF>15066274391</CPF>
+		<bancoRecebimento>Santander</bancoRecebimento>
+		<bancoPagamento>Caixa Econômica</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>282.041718445707</valor>
+		<numeroBoleto>16437116</numeroBoleto>
+	</br.com.pageseguro.RemessaBoleto>
+	<br.com.pageseguro.RemessaCartaoDebito>
+		<nome>Silvano Manso</nome>
+		<CPF>69607117360</CPF>
+		<bancoRecebimento>Santander</bancoRecebimento>
+		<bancoPagamento>Santander</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>340.89112944646337</valor>
+		<numeroCartao>39565170</numeroCartao>
+		<nomeTitular>CARMINDA BECERRIL</nomeTitular>
+	</br.com.pageseguro.RemessaCartaoDebito>
+	<br.com.pageseguro.RemessaCartaoCredito>
+		<nome>Rafael Camillo</nome>
+		<CPF>15066274391</CPF>
+		<bancoRecebimento>Bradesco</bancoRecebimento>
+		<bancoPagamento>Bradesco</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>456.7548158298774</valor>
+		<numeroCartao>89513526</numeroCartao>
+		<nomeTitular>ELSA PIRATININGA</nomeTitular>
+		<parcelas>4</parcelas>
+	</br.com.pageseguro.RemessaCartaoCredito>
+	<br.com.pageseguro.RemessaBoleto>
+		<nome>Carminda Becerril</nome>
+		<CPF>16674656607</CPF>
+		<bancoRecebimento>Banco do Brasil</bancoRecebimento>
+		<bancoPagamento>Banco do Brasil</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>426.0016393766439</valor>
+		<numeroBoleto>16984640</numeroBoleto>
+	</br.com.pageseguro.RemessaBoleto>
+	<br.com.pageseguro.RemessaBoleto>
+		<nome>Carminda Becerril</nome>
+		<CPF>25465677643</CPF>
+		<bancoRecebimento>Bradesco</bancoRecebimento>
+		<bancoPagamento>Banco do Brasil</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>270.6259618742993</valor>
+		<numeroBoleto>33984739</numeroBoleto>
+	</br.com.pageseguro.RemessaBoleto>
+	<br.com.pageseguro.RemessaBoleto>
+		<nome>Aniana Ochoa</nome>
+		<CPF>23258743541</CPF>
+		<bancoRecebimento>Banco Safra</bancoRecebimento>
+		<bancoPagamento>Itaú</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>488.5782911418722</valor>
+		<numeroBoleto>82477568</numeroBoleto>
+	</br.com.pageseguro.RemessaBoleto>
+	<br.com.pageseguro.RemessaBoleto>
+		<nome>Adelaide Carvalhaes</nome>
+		<CPF>18251384273</CPF>
+		<bancoRecebimento>Bradesco</bancoRecebimento>
+		<bancoPagamento>Santander</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>244.11257096605627</valor>
+		<numeroBoleto>51824057</numeroBoleto>
+	</br.com.pageseguro.RemessaBoleto>
+	<br.com.pageseguro.RemessaBoleto>
+		<nome>Ajuricaba Aldeia</nome>
+		<CPF>41057727598</CPF>
+		<bancoRecebimento>Caixa Econômica</bancoRecebimento>
+		<bancoPagamento>Itaú</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>340.74282216320756</valor>
+		<numeroBoleto>97974522</numeroBoleto>
+	</br.com.pageseguro.RemessaBoleto>
+	<br.com.pageseguro.RemessaCartaoDebito>
+		<nome>Serafina Inácio</nome>
+		<CPF>60765573628</CPF>
+		<bancoRecebimento>Caixa Econômica</bancoRecebimento>
+		<bancoPagamento>Banco do Brasil</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>258.50064865854824</valor>
+		<numeroCartao>98517531</numeroCartao>
+		<nomeTitular>GUIOMAR MARRERO</nomeTitular>
+	</br.com.pageseguro.RemessaCartaoDebito>
+	<br.com.pageseguro.RemessaCartaoCredito>
+		<nome>Elsa Piratininga</nome>
+		<CPF>60765573628</CPF>
+		<bancoRecebimento>Itaú</bancoRecebimento>
+		<bancoPagamento>Itaú</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>468.147627800459</valor>
+		<numeroCartao>83704225</numeroCartao>
+		<nomeTitular>SIDÓNIO FRAGA</nomeTitular>
+		<parcelas>5</parcelas>
+	</br.com.pageseguro.RemessaCartaoCredito>
+	<br.com.pageseguro.RemessaBoleto>
+		<nome>Zózimo Aragón</nome>
+		<CPF>56608514522</CPF>
+		<bancoRecebimento>Banco Safra</bancoRecebimento>
+		<bancoPagamento>Santander</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>361.7659800016258</valor>
+		<numeroBoleto>87469066</numeroBoleto>
+	</br.com.pageseguro.RemessaBoleto>
+	<br.com.pageseguro.RemessaBoleto>
+		<nome>Alzira Jaguaribe</nome>
+		<CPF>23258743541</CPF>
+		<bancoRecebimento>Bradesco</bancoRecebimento>
+		<bancoPagamento>Itaú</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>461.59651872500666</valor>
+		<numeroBoleto>56695389</numeroBoleto>
+	</br.com.pageseguro.RemessaBoleto>
+	<br.com.pageseguro.RemessaCartaoDebito>
+		<nome>Francisca Valle</nome>
+		<CPF>16674656607</CPF>
+		<bancoRecebimento>Santander</bancoRecebimento>
+		<bancoPagamento>Caixa Econômica</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>247.82168718065313</valor>
+		<numeroCartao>92256559</numeroCartao>
+		<nomeTitular>GUIOMAR MARRERO</nomeTitular>
+	</br.com.pageseguro.RemessaCartaoDebito>
+	<br.com.pageseguro.RemessaBoleto>
+		<nome>Carminda Becerril</nome>
+		<CPF>41057727598</CPF>
+		<bancoRecebimento>Itaú</bancoRecebimento>
+		<bancoPagamento>Itaú</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>257.72351622529254</valor>
+		<numeroBoleto>98617324</numeroBoleto>
+	</br.com.pageseguro.RemessaBoleto>
+	<br.com.pageseguro.RemessaCartaoCredito>
+		<nome>Zózimo Aragón</nome>
+		<CPF>27310563042</CPF>
+		<bancoRecebimento>Santander</bancoRecebimento>
+		<bancoPagamento>Bradesco</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>484.8383037659131</valor>
+		<numeroCartao>23235633</numeroCartao>
+		<nomeTitular>MILENA INFANTE</nomeTitular>
+		<parcelas>12</parcelas>
+	</br.com.pageseguro.RemessaCartaoCredito>
+	<br.com.pageseguro.RemessaBoleto>
+		<nome>Ajuricaba Aldeia</nome>
+		<CPF>23258743541</CPF>
+		<bancoRecebimento>Banco Safra</bancoRecebimento>
+		<bancoPagamento>Banco do Brasil</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>142.17858401997313</valor>
+		<numeroBoleto>57707368</numeroBoleto>
+	</br.com.pageseguro.RemessaBoleto>
+	<br.com.pageseguro.RemessaCartaoDebito>
+		<nome>Elba Medeiros</nome>
+		<CPF>16104178448</CPF>
+		<bancoRecebimento>Banco Safra</bancoRecebimento>
+		<bancoPagamento>Santander</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>183.93248245285122</valor>
+		<numeroCartao>41593127</numeroCartao>
+		<nomeTitular>CECÍLIA CASTELHANO</nomeTitular>
+	</br.com.pageseguro.RemessaCartaoDebito>
+	<br.com.pageseguro.RemessaCartaoCredito>
+		<nome>Apuã Castelo</nome>
+		<CPF>02010745400</CPF>
+		<bancoRecebimento>Itaú</bancoRecebimento>
+		<bancoPagamento>Santander</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>69.74613210422825</valor>
+		<numeroCartao>45664046</numeroCartao>
+		<nomeTitular>RAFAEL CAMILLO</nomeTitular>
+		<parcelas>9</parcelas>
+	</br.com.pageseguro.RemessaCartaoCredito>
+	<br.com.pageseguro.RemessaBoleto>
+		<nome>Apuã Castelo</nome>
+		<CPF>50845738429</CPF>
+		<bancoRecebimento>Santander</bancoRecebimento>
+		<bancoPagamento>Banco do Brasil</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>403.0762985827988</valor>
+		<numeroBoleto>87751431</numeroBoleto>
+	</br.com.pageseguro.RemessaBoleto>
+	<br.com.pageseguro.RemessaCartaoCredito>
+		<nome>Cecília Castelhano</nome>
+		<CPF>10214767171</CPF>
+		<bancoRecebimento>Caixa Econômica</bancoRecebimento>
+		<bancoPagamento>Banco Safra</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>331.707526890476</valor>
+		<numeroCartao>98475969</numeroCartao>
+		<nomeTitular>MAIARA AMORÍN</nomeTitular>
+		<parcelas>8</parcelas>
+	</br.com.pageseguro.RemessaCartaoCredito>
+	<br.com.pageseguro.RemessaCartaoCredito>
+		<nome>Zózimo Aragón</nome>
+		<CPF>18251384273</CPF>
+		<bancoRecebimento>Santander</bancoRecebimento>
+		<bancoPagamento>Banco do Brasil</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>315.64676751542595</valor>
+		<numeroCartao>51204068</numeroCartao>
+		<nomeTitular>CARMINDA BECERRIL</nomeTitular>
+		<parcelas>8</parcelas>
+	</br.com.pageseguro.RemessaCartaoCredito>
+	<br.com.pageseguro.RemessaCartaoCredito>
+		<nome>Adelaide Carvalhaes</nome>
+		<CPF>56608514522</CPF>
+		<bancoRecebimento>Santander</bancoRecebimento>
+		<bancoPagamento>Bradesco</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>223.52531985851755</valor>
+		<numeroCartao>31268198</numeroCartao>
+		<nomeTitular>CARMINDA BECERRIL</nomeTitular>
+		<parcelas>8</parcelas>
+	</br.com.pageseguro.RemessaCartaoCredito>
+	<br.com.pageseguro.RemessaCartaoDebito>
+		<nome>Sandoval Félix</nome>
+		<CPF>15066274391</CPF>
+		<bancoRecebimento>Banco do Brasil</bancoRecebimento>
+		<bancoPagamento>Banco do Brasil</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>345.7433908976124</valor>
+		<numeroCartao>68166857</numeroCartao>
+		<nomeTitular>VIRIATO AYRES</nomeTitular>
+	</br.com.pageseguro.RemessaCartaoDebito>
+	<br.com.pageseguro.RemessaBoleto>
+		<nome>Sidónio Fraga</nome>
+		<CPF>69607117360</CPF>
+		<bancoRecebimento>Banco Safra</bancoRecebimento>
+		<bancoPagamento>Caixa Econômica</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>134.1097036543697</valor>
+		<numeroBoleto>27205614</numeroBoleto>
+	</br.com.pageseguro.RemessaBoleto>
+	<br.com.pageseguro.RemessaCartaoDebito>
+		<nome>Silvano Manso</nome>
+		<CPF>41057727598</CPF>
+		<bancoRecebimento>Santander</bancoRecebimento>
+		<bancoPagamento>Santander</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>179.4428719801887</valor>
+		<numeroCartao>35207865</numeroCartao>
+		<nomeTitular>LIEDSON LAGO</nomeTitular>
+	</br.com.pageseguro.RemessaCartaoDebito>
+	<br.com.pageseguro.RemessaCartaoCredito>
+		<nome>Laís Felgueiras</nome>
+		<CPF>02010745400</CPF>
+		<bancoRecebimento>Santander</bancoRecebimento>
+		<bancoPagamento>Banco do Brasil</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>241.6242514728148</valor>
+		<numeroCartao>51534620</numeroCartao>
+		<nomeTitular>VIRIATO AYRES</nomeTitular>
+		<parcelas>8</parcelas>
+	</br.com.pageseguro.RemessaCartaoCredito>
+	<br.com.pageseguro.RemessaCartaoCredito>
+		<nome>Sidónio Fraga</nome>
+		<CPF>13234771286</CPF>
+		<bancoRecebimento>Caixa Econômica</bancoRecebimento>
+		<bancoPagamento>Santander</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>312.78659775422983</valor>
+		<numeroCartao>31479892</numeroCartao>
+		<nomeTitular>APUÃ CASTELO</nomeTitular>
+		<parcelas>10</parcelas>
+	</br.com.pageseguro.RemessaCartaoCredito>
+	<br.com.pageseguro.RemessaCartaoDebito>
+		<nome>Ofélia Cisneros</nome>
+		<CPF>50845738429</CPF>
+		<bancoRecebimento>Itaú</bancoRecebimento>
+		<bancoPagamento>Santander</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>86.65898317140491</valor>
+		<numeroCartao>69766858</numeroCartao>
+		<nomeTitular>ELBA MEDEIROS</nomeTitular>
+	</br.com.pageseguro.RemessaCartaoDebito>
+	<br.com.pageseguro.RemessaCartaoDebito>
+		<nome>Liedson Lago</nome>
+		<CPF>12142626190</CPF>
+		<bancoRecebimento>Caixa Econômica</bancoRecebimento>
+		<bancoPagamento>Banco Safra</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>142.82627952213838</valor>
+		<numeroCartao>40358823</numeroCartao>
+		<nomeTitular>ZÓZIMO ARAGÓN</nomeTitular>
+	</br.com.pageseguro.RemessaCartaoDebito>
+	<br.com.pageseguro.RemessaCartaoCredito>
+		<nome>Zózimo Aragón</nome>
+		<CPF>13234771286</CPF>
+		<bancoRecebimento>Banco do Brasil</bancoRecebimento>
+		<bancoPagamento>Banco Safra</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>129.86590156799448</valor>
+		<numeroCartao>39669770</numeroCartao>
+		<nomeTitular>SILVANO MANSO</nomeTitular>
+		<parcelas>8</parcelas>
+	</br.com.pageseguro.RemessaCartaoCredito>
+	<br.com.pageseguro.RemessaCartaoDebito>
+		<nome>Apuã Castelo</nome>
+		<CPF>23258743541</CPF>
+		<bancoRecebimento>Bradesco</bancoRecebimento>
+		<bancoPagamento>Banco do Brasil</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>260.86428588964645</valor>
+		<numeroCartao>20562576</numeroCartao>
+		<nomeTitular>AJURICABA ALDEIA</nomeTitular>
+	</br.com.pageseguro.RemessaCartaoDebito>
+	<br.com.pageseguro.RemessaBoleto>
+		<nome>Honório Castelo Branco</nome>
+		<CPF>50845738429</CPF>
+		<bancoRecebimento>Banco do Brasil</bancoRecebimento>
+		<bancoPagamento>Bradesco</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>142.60201039824727</valor>
+		<numeroBoleto>23985647</numeroBoleto>
+	</br.com.pageseguro.RemessaBoleto>
+	<br.com.pageseguro.RemessaBoleto>
+		<nome>Sandoval Félix</nome>
+		<CPF>85767184488</CPF>
+		<bancoRecebimento>Banco do Brasil</bancoRecebimento>
+		<bancoPagamento>Banco do Brasil</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>69.55888348637046</valor>
+		<numeroBoleto>82514052</numeroBoleto>
+	</br.com.pageseguro.RemessaBoleto>
+	<br.com.pageseguro.RemessaBoleto>
+		<nome>Alzira Jaguaribe</nome>
+		<CPF>23258743541</CPF>
+		<bancoRecebimento>Banco do Brasil</bancoRecebimento>
+		<bancoPagamento>Santander</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>432.103090280222</valor>
+		<numeroBoleto>46569287</numeroBoleto>
+	</br.com.pageseguro.RemessaBoleto>
+	<br.com.pageseguro.RemessaCartaoCredito>
+		<nome>Elsa Piratininga</nome>
+		<CPF>15066274391</CPF>
+		<bancoRecebimento>Bradesco</bancoRecebimento>
+		<bancoPagamento>Banco do Brasil</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>34.32559373117966</valor>
+		<numeroCartao>69311430</numeroCartao>
+		<nomeTitular>OFÉLIA CISNEROS</nomeTitular>
+		<parcelas>6</parcelas>
+	</br.com.pageseguro.RemessaCartaoCredito>
+	<br.com.pageseguro.RemessaCartaoDebito>
+		<nome>Liedson Lago</nome>
+		<CPF>24556234166</CPF>
+		<bancoRecebimento>Banco Safra</bancoRecebimento>
+		<bancoPagamento>Itaú</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>450.13073930743764</valor>
+		<numeroCartao>48835699</numeroCartao>
+		<nomeTitular>ANIANA OCHOA</nomeTitular>
+	</br.com.pageseguro.RemessaCartaoDebito>
+	<br.com.pageseguro.RemessaCartaoCredito>
+		<nome>Guiomar Marrero</nome>
+		<CPF>12142626190</CPF>
+		<bancoRecebimento>Santander</bancoRecebimento>
+		<bancoPagamento>Banco do Brasil</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>250.0197714014009</valor>
+		<numeroCartao>78932551</numeroCartao>
+		<nomeTitular>NÁDIA FERNÁNDEZ</nomeTitular>
+		<parcelas>6</parcelas>
+	</br.com.pageseguro.RemessaCartaoCredito>
+	<br.com.pageseguro.RemessaCartaoDebito>
+		<nome>Carminda Becerril</nome>
+		<CPF>65453761520</CPF>
+		<bancoRecebimento>Itaú</bancoRecebimento>
+		<bancoPagamento>Itaú</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>360.36559984690615</valor>
+		<numeroCartao>51755233</numeroCartao>
+		<nomeTitular>LIEDSON LAGO</nomeTitular>
+	</br.com.pageseguro.RemessaCartaoDebito>
+	<br.com.pageseguro.RemessaCartaoCredito>
+		<nome>Laís Felgueiras</nome>
+		<CPF>56608514522</CPF>
+		<bancoRecebimento>Bradesco</bancoRecebimento>
+		<bancoPagamento>Caixa Econômica</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>175.86146907557898</valor>
+		<numeroCartao>89235669</numeroCartao>
+		<nomeTitular>MAIARA AMORÍN</nomeTitular>
+		<parcelas>5</parcelas>
+	</br.com.pageseguro.RemessaCartaoCredito>
+	<br.com.pageseguro.RemessaCartaoDebito>
+		<nome>Elba Medeiros</nome>
+		<CPF>87478000207</CPF>
+		<bancoRecebimento>Banco Safra</bancoRecebimento>
+		<bancoPagamento>Bradesco</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>456.0985970490706</valor>
+		<numeroCartao>14687227</numeroCartao>
+		<nomeTitular>FRANCISCA VALLE</nomeTitular>
+	</br.com.pageseguro.RemessaCartaoDebito>
+	<br.com.pageseguro.RemessaCartaoCredito>
+		<nome>Ajuricaba Aldeia</nome>
+		<CPF>57301112157</CPF>
+		<bancoRecebimento>Santander</bancoRecebimento>
+		<bancoPagamento>Santander</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>273.65359546926214</valor>
+		<numeroCartao>20276920</numeroCartao>
+		<nomeTitular>ELSA PIRATININGA</nomeTitular>
+		<parcelas>2</parcelas>
+	</br.com.pageseguro.RemessaCartaoCredito>
+	<br.com.pageseguro.RemessaCartaoDebito>
+		<nome>Liedson Lago</nome>
+		<CPF>18251384273</CPF>
+		<bancoRecebimento>Santander</bancoRecebimento>
+		<bancoPagamento>Caixa Econômica</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>88.59521558824463</valor>
+		<numeroCartao>24419855</numeroCartao>
+		<nomeTitular>ELSA PIRATININGA</nomeTitular>
+	</br.com.pageseguro.RemessaCartaoDebito>
+	<br.com.pageseguro.RemessaCartaoCredito>
+		<nome>Elba Medeiros</nome>
+		<CPF>65453761520</CPF>
+		<bancoRecebimento>Bradesco</bancoRecebimento>
+		<bancoPagamento>Santander</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>199.30098113582807</valor>
+		<numeroCartao>25886981</numeroCartao>
+		<nomeTitular>VIRIATO AYRES</nomeTitular>
+		<parcelas>11</parcelas>
+	</br.com.pageseguro.RemessaCartaoCredito>
+	<br.com.pageseguro.RemessaBoleto>
+		<nome>Serafina Inácio</nome>
+		<CPF>15066274391</CPF>
+		<bancoRecebimento>Itaú</bancoRecebimento>
+		<bancoPagamento>Itaú</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>127.03720046288063</valor>
+		<numeroBoleto>98312020</numeroBoleto>
+	</br.com.pageseguro.RemessaBoleto>
+	<br.com.pageseguro.RemessaCartaoDebito>
+		<nome>Sandoval Félix</nome>
+		<CPF>27310563042</CPF>
+		<bancoRecebimento>Bradesco</bancoRecebimento>
+		<bancoPagamento>Banco do Brasil</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>7.279227984614611</valor>
+		<numeroCartao>31688869</numeroCartao>
+		<nomeTitular>SILVANO MANSO</nomeTitular>
+	</br.com.pageseguro.RemessaCartaoDebito>
+	<br.com.pageseguro.RemessaBoleto>
+		<nome>Silvano Manso</nome>
+		<CPF>16674656607</CPF>
+		<bancoRecebimento>Banco do Brasil</bancoRecebimento>
+		<bancoPagamento>Caixa Econômica</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>163.90262460146488</valor>
+		<numeroBoleto>35257568</numeroBoleto>
+	</br.com.pageseguro.RemessaBoleto>
+	<br.com.pageseguro.RemessaBoleto>
+		<nome>Sidónio Fraga</nome>
+		<CPF>16104178448</CPF>
+		<bancoRecebimento>Santander</bancoRecebimento>
+		<bancoPagamento>Caixa Econômica</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>57.90569087592162</valor>
+		<numeroBoleto>26474178</numeroBoleto>
+	</br.com.pageseguro.RemessaBoleto>
+	<br.com.pageseguro.RemessaCartaoDebito>
+		<nome>Serafina Inácio</nome>
+		<CPF>87478000207</CPF>
+		<bancoRecebimento>Caixa Econômica</bancoRecebimento>
+		<bancoPagamento>Bradesco</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>172.31555044191316</valor>
+		<numeroCartao>78569257</numeroCartao>
+		<nomeTitular>MILU DÍAZ</nomeTitular>
+	</br.com.pageseguro.RemessaCartaoDebito>
+	<br.com.pageseguro.RemessaBoleto>
+		<nome>Nádia Fernández</nome>
+		<CPF>50845738429</CPF>
+		<bancoRecebimento>Bradesco</bancoRecebimento>
+		<bancoPagamento>Banco do Brasil</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>282.97261620409546</valor>
+		<numeroBoleto>43925257</numeroBoleto>
+	</br.com.pageseguro.RemessaBoleto>
+	<br.com.pageseguro.RemessaBoleto>
+		<nome>Liedson Lago</nome>
+		<CPF>73366162759</CPF>
+		<bancoRecebimento>Banco Safra</bancoRecebimento>
+		<bancoPagamento>Banco Safra</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>433.12739113396213</valor>
+		<numeroBoleto>31312067</numeroBoleto>
+	</br.com.pageseguro.RemessaBoleto>
+	<br.com.pageseguro.RemessaBoleto>
+		<nome>Laís Felgueiras</nome>
+		<CPF>16674656607</CPF>
+		<bancoRecebimento>Caixa Econômica</bancoRecebimento>
+		<bancoPagamento>Caixa Econômica</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>395.5185512996146</valor>
+		<numeroBoleto>35689251</numeroBoleto>
+	</br.com.pageseguro.RemessaBoleto>
+	<br.com.pageseguro.RemessaCartaoCredito>
+		<nome>Elba Medeiros</nome>
+		<CPF>12142626190</CPF>
+		<bancoRecebimento>Caixa Econômica</bancoRecebimento>
+		<bancoPagamento>Banco Safra</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>74.69361564882576</valor>
+		<numeroCartao>98824844</numeroCartao>
+		<nomeTitular>ELSA PIRATININGA</nomeTitular>
+		<parcelas>11</parcelas>
+	</br.com.pageseguro.RemessaCartaoCredito>
+	<br.com.pageseguro.RemessaBoleto>
+		<nome>Milu Díaz</nome>
+		<CPF>41057727598</CPF>
+		<bancoRecebimento>Caixa Econômica</bancoRecebimento>
+		<bancoPagamento>Banco Safra</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>292.3042184460323</valor>
+		<numeroBoleto>53665651</numeroBoleto>
+	</br.com.pageseguro.RemessaBoleto>
+	<br.com.pageseguro.RemessaCartaoDebito>
+		<nome>Milena Infante</nome>
+		<CPF>12142626190</CPF>
+		<bancoRecebimento>Banco do Brasil</bancoRecebimento>
+		<bancoPagamento>Itaú</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>404.4551542333979</valor>
+		<numeroCartao>39821635</numeroCartao>
+		<nomeTitular>VIRIATO AYRES</nomeTitular>
+	</br.com.pageseguro.RemessaCartaoDebito>
+	<br.com.pageseguro.RemessaBoleto>
+		<nome>Elsa Piratininga</nome>
+		<CPF>73366162759</CPF>
+		<bancoRecebimento>Banco do Brasil</bancoRecebimento>
+		<bancoPagamento>Banco do Brasil</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>225.05278977297849</valor>
+		<numeroBoleto>59878968</numeroBoleto>
+	</br.com.pageseguro.RemessaBoleto>
+	<br.com.pageseguro.RemessaCartaoCredito>
+		<nome>Sandoval Félix</nome>
+		<CPF>56608514522</CPF>
+		<bancoRecebimento>Banco Safra</bancoRecebimento>
+		<bancoPagamento>Bradesco</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>482.0577956397222</valor>
+		<numeroCartao>23829716</numeroCartao>
+		<nomeTitular>OFÉLIA CISNEROS</nomeTitular>
+		<parcelas>3</parcelas>
+	</br.com.pageseguro.RemessaCartaoCredito>
+	<br.com.pageseguro.RemessaBoleto>
+		<nome>Elsa Piratininga</nome>
+		<CPF>18251384273</CPF>
+		<bancoRecebimento>Santander</bancoRecebimento>
+		<bancoPagamento>Bradesco</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>29.90295078612426</valor>
+		<numeroBoleto>25163041</numeroBoleto>
+	</br.com.pageseguro.RemessaBoleto>
+	<br.com.pageseguro.RemessaBoleto>
+		<nome>Daniela Graça</nome>
+		<CPF>12142626190</CPF>
+		<bancoRecebimento>Caixa Econômica</bancoRecebimento>
+		<bancoPagamento>Caixa Econômica</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>63.94360604745047</valor>
+		<numeroBoleto>75224640</numeroBoleto>
+	</br.com.pageseguro.RemessaBoleto>
+	<br.com.pageseguro.RemessaCartaoCredito>
+		<nome>Viriato Ayres</nome>
+		<CPF>52147655106</CPF>
+		<bancoRecebimento>Itaú</bancoRecebimento>
+		<bancoPagamento>Caixa Econômica</bancoPagamento>
+		<data>2018-09-02 02:58:10.96 UTC</data>
+		<valor>439.0602889262974</valor>
+		<numeroCartao>56555327</numeroCartao>
+		<nomeTitular>LAÍS FELGUEIRAS</nomeTitular>
+		<parcelas>9</parcelas>
+	</br.com.pageseguro.RemessaCartaoCredito>
+</list>

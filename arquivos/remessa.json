@@ -1,0 +1,1001 @@
+[
+	{
+		"numeroCartao": "59105948",
+		"nomeTitular": "CECÍLIA CASTELHANO",
+		"parcelas": 7,
+		"nome": "Sandoval Félix",
+		"CPF": "52147655106",
+		"bancoRecebimento": "Banco Safra",
+		"bancoPagamento": "Itaú",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 366.3654500816
+	},
+	{
+		"numeroBoleto": "51233942",
+		"nome": "Honório Castelo Branco",
+		"CPF": "57301112157",
+		"bancoRecebimento": "Caixa Econômica",
+		"bancoPagamento": "Caixa Econômica",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 10.846284512911698
+	},
+	{
+		"numeroCartao": "66538725",
+		"nomeTitular": "VIRIATO AYRES",
+		"parcelas": 7,
+		"nome": "Apuã Castelo",
+		"CPF": "18251384273",
+		"bancoRecebimento": "Banco Safra",
+		"bancoPagamento": "Banco do Brasil",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 321.85625646898865
+	},
+	{
+		"numeroCartao": "71474552",
+		"nomeTitular": "SERAFINA INÁCIO",
+		"nome": "Adelaide Carvalhaes",
+		"CPF": "13234771286",
+		"bancoRecebimento": "Banco Safra",
+		"bancoPagamento": "Santander",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 265.6598441955409
+	},
+	{
+		"numeroCartao": "40579881",
+		"nomeTitular": "DANIELA GRAÇA",
+		"nome": "Honório Castelo Branco",
+		"CPF": "65453761520",
+		"bancoRecebimento": "Banco do Brasil",
+		"bancoPagamento": "Caixa Econômica",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 179.7420156188032
+	},
+	{
+		"numeroBoleto": "31393547",
+		"nome": "Milu Díaz",
+		"CPF": "02010745400",
+		"bancoRecebimento": "Itaú",
+		"bancoPagamento": "Caixa Econômica",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 226.84757499016877
+	},
+	{
+		"numeroCartao": "98459683",
+		"nomeTitular": "SIDÓNIO FRAGA",
+		"parcelas": 6,
+		"nome": "Nádia Fernández",
+		"CPF": "41057727598",
+		"bancoRecebimento": "Banco do Brasil",
+		"bancoPagamento": "Banco Safra",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 60.68639399289072
+	},
+	{
+		"numeroCartao": "98985245",
+		"nomeTitular": "NÁDIA FERNÁNDEZ",
+		"parcelas": 3,
+		"nome": "Maiara Amorín",
+		"CPF": "16674656607",
+		"bancoRecebimento": "Bradesco",
+		"bancoPagamento": "Banco Safra",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 266.689166903902
+	},
+	{
+		"numeroBoleto": "67591452",
+		"nome": "Nádia Fernández",
+		"CPF": "23258743541",
+		"bancoRecebimento": "Caixa Econômica",
+		"bancoPagamento": "Bradesco",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 144.219878835397
+	},
+	{
+		"numeroCartao": "56269931",
+		"nomeTitular": "ANIANA OCHOA",
+		"nome": "Ajuricaba Aldeia",
+		"CPF": "27310563042",
+		"bancoRecebimento": "Itaú",
+		"bancoPagamento": "Itaú",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 183.3657889245162
+	},
+	{
+		"numeroCartao": "98424893",
+		"nomeTitular": "OFÉLIA CISNEROS",
+		"nome": "Aniana Ochoa",
+		"CPF": "13234771286",
+		"bancoRecebimento": "Santander",
+		"bancoPagamento": "Bradesco",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 293.9805890895408
+	},
+	{
+		"numeroBoleto": "79107383",
+		"nome": "Sidónio Fraga",
+		"CPF": "85767184488",
+		"bancoRecebimento": "Caixa Econômica",
+		"bancoPagamento": "Santander",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 466.7092204288265
+	},
+	{
+		"numeroCartao": "58169356",
+		"nomeTitular": "SIDÓNIO FRAGA",
+		"parcelas": 5,
+		"nome": "Daniela Graça",
+		"CPF": "25465677643",
+		"bancoRecebimento": "Itaú",
+		"bancoPagamento": "Caixa Econômica",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 176.67345293318832
+	},
+	{
+		"numeroCartao": "67105252",
+		"nomeTitular": "VIRIATO AYRES",
+		"nome": "Viriato Ayres",
+		"CPF": "27310563042",
+		"bancoRecebimento": "Itaú",
+		"bancoPagamento": "Banco Safra",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 57.923211196931554
+	},
+	{
+		"numeroBoleto": "25786516",
+		"nome": "Cecília Castelhano",
+		"CPF": "85767184488",
+		"bancoRecebimento": "Itaú",
+		"bancoPagamento": "Banco do Brasil",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 426.21066234787304
+	},
+	{
+		"numeroCartao": "81257093",
+		"nomeTitular": "SILVANO MANSO",
+		"nome": "Daniela Graça",
+		"CPF": "46708681102",
+		"bancoRecebimento": "Banco Safra",
+		"bancoPagamento": "Banco do Brasil",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 1.5576481584820279
+	},
+	{
+		"numeroBoleto": "35518258",
+		"nome": "Alzira Jaguaribe",
+		"CPF": "02010745400",
+		"bancoRecebimento": "Caixa Econômica",
+		"bancoPagamento": "Bradesco",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 21.204773094270546
+	},
+	{
+		"numeroCartao": "68685151",
+		"nomeTitular": "ZÓZIMO ARAGÓN",
+		"parcelas": 11,
+		"nome": "Milena Infante",
+		"CPF": "15066274391",
+		"bancoRecebimento": "Santander",
+		"bancoPagamento": "Santander",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 416.8498144608684
+	},
+	{
+		"numeroBoleto": "41576882",
+		"nome": "Nádia Fernández",
+		"CPF": "13234771286",
+		"bancoRecebimento": "Bradesco",
+		"bancoPagamento": "Bradesco",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 384.96853444612276
+	},
+	{
+		"numeroCartao": "31874892",
+		"nomeTitular": "APUÃ CASTELO",
+		"nome": "Ofélia Cisneros",
+		"CPF": "69607117360",
+		"bancoRecebimento": "Banco do Brasil",
+		"bancoPagamento": "Itaú",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 433.7418107118035
+	},
+	{
+		"numeroCartao": "16455351",
+		"nomeTitular": "VIRIATO AYRES",
+		"parcelas": 4,
+		"nome": "Sandoval Félix",
+		"CPF": "56608514522",
+		"bancoRecebimento": "Banco Safra",
+		"bancoPagamento": "Banco Safra",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 206.74787766077108
+	},
+	{
+		"numeroCartao": "79405346",
+		"nomeTitular": "AJURICABA ALDEIA",
+		"nome": "Francisca Valle",
+		"CPF": "27310563042",
+		"bancoRecebimento": "Itaú",
+		"bancoPagamento": "Banco do Brasil",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 449.6622143371908
+	},
+	{
+		"numeroBoleto": "87435697",
+		"nome": "Ofélia Cisneros",
+		"CPF": "50845738429",
+		"bancoRecebimento": "Banco Safra",
+		"bancoPagamento": "Itaú",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 209.456018149374
+	},
+	{
+		"numeroBoleto": "76759783",
+		"nome": "Cecília Castelhano",
+		"CPF": "12142626190",
+		"bancoRecebimento": "Itaú",
+		"bancoPagamento": "Banco do Brasil",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 296.3091523642262
+	},
+	{
+		"numeroCartao": "41257689",
+		"nomeTitular": "ADELAIDE CARVALHAES",
+		"parcelas": 8,
+		"nome": "Sandoval Félix",
+		"CPF": "45074358892",
+		"bancoRecebimento": "Santander",
+		"bancoPagamento": "Bradesco",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 430.1287531821642
+	},
+	{
+		"numeroCartao": "25337082",
+		"nomeTitular": "APUÃ CASTELO",
+		"nome": "Sidónio Fraga",
+		"CPF": "10214767171",
+		"bancoRecebimento": "Banco do Brasil",
+		"bancoPagamento": "Banco do Brasil",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 42.53708057620054
+	},
+	{
+		"numeroCartao": "97536960",
+		"nomeTitular": "FRANCISCA VALLE",
+		"nome": "Nádia Fernández",
+		"CPF": "02010745400",
+		"bancoRecebimento": "Bradesco",
+		"bancoPagamento": "Caixa Econômica",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 326.18692627221276
+	},
+	{
+		"numeroCartao": "67203159",
+		"nomeTitular": "MAIARA AMORÍN",
+		"parcelas": 7,
+		"nome": "Carminda Becerril",
+		"CPF": "87478000207",
+		"bancoRecebimento": "Santander",
+		"bancoPagamento": "Itaú",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 57.94246737204378
+	},
+	{
+		"numeroCartao": "45356125",
+		"nomeTitular": "ELSA PIRATININGA",
+		"nome": "Guiomar Marrero",
+		"CPF": "65453761520",
+		"bancoRecebimento": "Bradesco",
+		"bancoPagamento": "Banco Safra",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 3.9393283697148895
+	},
+	{
+		"numeroBoleto": "98467579",
+		"nome": "Daniela Graça",
+		"CPF": "85767184488",
+		"bancoRecebimento": "Bradesco",
+		"bancoPagamento": "Bradesco",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 81.33657737734507
+	},
+	{
+		"numeroCartao": "46144014",
+		"nomeTitular": "MILU DÍAZ",
+		"parcelas": 5,
+		"nome": "Honório Castelo Branco",
+		"CPF": "12142626190",
+		"bancoRecebimento": "Itaú",
+		"bancoPagamento": "Bradesco",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 80.21544070425607
+	},
+	{
+		"numeroCartao": "44336973",
+		"nomeTitular": "MILENA INFANTE",
+		"parcelas": 2,
+		"nome": "Silvano Manso",
+		"CPF": "87478000207",
+		"bancoRecebimento": "Banco Safra",
+		"bancoPagamento": "Banco do Brasil",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 65.02073657667523
+	},
+	{
+		"numeroCartao": "97463130",
+		"nomeTitular": "MAIARA AMORÍN",
+		"parcelas": 1,
+		"nome": "Elsa Piratininga",
+		"CPF": "56608514522",
+		"bancoRecebimento": "Banco do Brasil",
+		"bancoPagamento": "Banco do Brasil",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 417.2755691408699
+	},
+	{
+		"numeroBoleto": "23569068",
+		"nome": "Laís Felgueiras",
+		"CPF": "25465677643",
+		"bancoRecebimento": "Caixa Econômica",
+		"bancoPagamento": "Itaú",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 37.24021999140892
+	},
+	{
+		"numeroCartao": "66252423",
+		"nomeTitular": "GUIOMAR MARRERO",
+		"nome": "Aniana Ochoa",
+		"CPF": "56608514522",
+		"bancoRecebimento": "Itaú",
+		"bancoPagamento": "Banco do Brasil",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 412.9578253960641
+	},
+	{
+		"numeroBoleto": "35256127",
+		"nome": "Milu Díaz",
+		"CPF": "16104178448",
+		"bancoRecebimento": "Banco do Brasil",
+		"bancoPagamento": "Banco Safra",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 155.5458232632347
+	},
+	{
+		"numeroBoleto": "69253946",
+		"nome": "Carminda Becerril",
+		"CPF": "16104178448",
+		"bancoRecebimento": "Banco Safra",
+		"bancoPagamento": "Bradesco",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 419.20579326094816
+	},
+	{
+		"numeroCartao": "82457225",
+		"nomeTitular": "OFÉLIA CISNEROS",
+		"nome": "Elsa Piratininga",
+		"CPF": "15066274391",
+		"bancoRecebimento": "Banco do Brasil",
+		"bancoPagamento": "Caixa Econômica",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 128.76086881547855
+	},
+	{
+		"numeroBoleto": "40528992",
+		"nome": "Zózimo Aragón",
+		"CPF": "16674656607",
+		"bancoRecebimento": "Banco do Brasil",
+		"bancoPagamento": "Banco Safra",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 103.55433777530543
+	},
+	{
+		"numeroBoleto": "30709031",
+		"nome": "Adelaide Carvalhaes",
+		"CPF": "24556234166",
+		"bancoRecebimento": "Santander",
+		"bancoPagamento": "Santander",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 107.1208189675445
+	},
+	{
+		"numeroCartao": "81469843",
+		"nomeTitular": "LAÍS FELGUEIRAS",
+		"nome": "Milu Díaz",
+		"CPF": "45074358892",
+		"bancoRecebimento": "Banco do Brasil",
+		"bancoPagamento": "Banco do Brasil",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 349.7772371503932
+	},
+	{
+		"numeroCartao": "61304525",
+		"nomeTitular": "RAFAEL CAMILLO",
+		"parcelas": 10,
+		"nome": "Elsa Piratininga",
+		"CPF": "85767184488",
+		"bancoRecebimento": "Bradesco",
+		"bancoPagamento": "Caixa Econômica",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 172.76992558207
+	},
+	{
+		"numeroCartao": "92679726",
+		"nomeTitular": "ALZIRA JAGUARIBE",
+		"nome": "Serafina Inácio",
+		"CPF": "52147655106",
+		"bancoRecebimento": "Banco do Brasil",
+		"bancoPagamento": "Itaú",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 219.72126054792818
+	},
+	{
+		"numeroCartao": "40452426",
+		"nomeTitular": "SERAFINA INÁCIO",
+		"nome": "Alzira Jaguaribe",
+		"CPF": "12142626190",
+		"bancoRecebimento": "Santander",
+		"bancoPagamento": "Bradesco",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 376.57580661237034
+	},
+	{
+		"numeroCartao": "31685825",
+		"nomeTitular": "ALZIRA JAGUARIBE",
+		"parcelas": 11,
+		"nome": "Carminda Becerril",
+		"CPF": "69607117360",
+		"bancoRecebimento": "Banco do Brasil",
+		"bancoPagamento": "Banco Safra",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 211.43470972043616
+	},
+	{
+		"numeroCartao": "99204720",
+		"nomeTitular": "ZÓZIMO ARAGÓN",
+		"parcelas": 8,
+		"nome": "Ajuricaba Aldeia",
+		"CPF": "12142626190",
+		"bancoRecebimento": "Itaú",
+		"bancoPagamento": "Banco Safra",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 134.12946769328215
+	},
+	{
+		"numeroCartao": "92589959",
+		"nomeTitular": "ADELAIDE CARVALHAES",
+		"parcelas": 11,
+		"nome": "Liedson Lago",
+		"CPF": "15066274391",
+		"bancoRecebimento": "Santander",
+		"bancoPagamento": "Banco Safra",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 356.17260259079194
+	},
+	{
+		"numeroCartao": "67409839",
+		"nomeTitular": "ALZIRA JAGUARIBE",
+		"nome": "Milu Díaz",
+		"CPF": "69607117360",
+		"bancoRecebimento": "Bradesco",
+		"bancoPagamento": "Banco do Brasil",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 212.37205721932494
+	},
+	{
+		"numeroCartao": "47315570",
+		"nomeTitular": "ELBA MEDEIROS",
+		"nome": "Silvano Manso",
+		"CPF": "23258743541",
+		"bancoRecebimento": "Bradesco",
+		"bancoPagamento": "Bradesco",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 194.9171161542005
+	},
+	{
+		"numeroBoleto": "31259856",
+		"nome": "Sandoval Félix",
+		"CPF": "41057727598",
+		"bancoRecebimento": "Banco do Brasil",
+		"bancoPagamento": "Bradesco",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 358.62680293895346
+	},
+	{
+		"numeroCartao": "51895643",
+		"nomeTitular": "ELBA MEDEIROS",
+		"parcelas": 8,
+		"nome": "Nádia Fernández",
+		"CPF": "25465677643",
+		"bancoRecebimento": "Santander",
+		"bancoPagamento": "Bradesco",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 373.9443351872092
+	},
+	{
+		"numeroCartao": "57599844",
+		"nomeTitular": "OFÉLIA CISNEROS",
+		"nome": "Adelaide Carvalhaes",
+		"CPF": "02010745400",
+		"bancoRecebimento": "Banco do Brasil",
+		"bancoPagamento": "Bradesco",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 172.57575045273626
+	},
+	{
+		"numeroCartao": "39239798",
+		"nomeTitular": "SERAFINA INÁCIO",
+		"parcelas": 3,
+		"nome": "Alzira Jaguaribe",
+		"CPF": "69607117360",
+		"bancoRecebimento": "Santander",
+		"bancoPagamento": "Itaú",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 48.01373905904443
+	},
+	{
+		"numeroCartao": "26578182",
+		"nomeTitular": "APUÃ CASTELO",
+		"nome": "Nádia Fernández",
+		"CPF": "24556234166",
+		"bancoRecebimento": "Banco do Brasil",
+		"bancoPagamento": "Santander",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 27.129501895385488
+	},
+	{
+		"numeroBoleto": "59418716",
+		"nome": "Liedson Lago",
+		"CPF": "87478000207",
+		"bancoRecebimento": "Bradesco",
+		"bancoPagamento": "Itaú",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 192.33340002917842
+	},
+	{
+		"numeroBoleto": "47925551",
+		"nome": "Silvano Manso",
+		"CPF": "52147655106",
+		"bancoRecebimento": "Banco do Brasil",
+		"bancoPagamento": "Bradesco",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 360.97754368194
+	},
+	{
+		"numeroBoleto": "66445930",
+		"nome": "Serafina Inácio",
+		"CPF": "73366162759",
+		"bancoRecebimento": "Bradesco",
+		"bancoPagamento": "Caixa Econômica",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 303.0035280652015
+	},
+	{
+		"numeroCartao": "96994446",
+		"nomeTitular": "ADELAIDE CARVALHAES",
+		"parcelas": 8,
+		"nome": "Cecília Castelhano",
+		"CPF": "57301112157",
+		"bancoRecebimento": "Caixa Econômica",
+		"bancoPagamento": "Santander",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 0.22672685613495114
+	},
+	{
+		"numeroCartao": "57675170",
+		"nomeTitular": "GUIOMAR MARRERO",
+		"parcelas": 8,
+		"nome": "Rafael Camillo",
+		"CPF": "85767184488",
+		"bancoRecebimento": "Itaú",
+		"bancoPagamento": "Bradesco",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 226.6672781140343
+	},
+	{
+		"numeroBoleto": "70565399",
+		"nome": "Elba Medeiros",
+		"CPF": "87478000207",
+		"bancoRecebimento": "Bradesco",
+		"bancoPagamento": "Itaú",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 301.84448558151934
+	},
+	{
+		"numeroCartao": "41874198",
+		"nomeTitular": "MAIARA AMORÍN",
+		"parcelas": 11,
+		"nome": "Alzira Jaguaribe",
+		"CPF": "23258743541",
+		"bancoRecebimento": "Santander",
+		"bancoPagamento": "Banco do Brasil",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 459.16742074716916
+	},
+	{
+		"numeroCartao": "93786568",
+		"nomeTitular": "SERAFINA INÁCIO",
+		"parcelas": 12,
+		"nome": "Adelaide Carvalhaes",
+		"CPF": "50845738429",
+		"bancoRecebimento": "Banco do Brasil",
+		"bancoPagamento": "Bradesco",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 432.09506540510716
+	},
+	{
+		"numeroCartao": "25897293",
+		"nomeTitular": "ELBA MEDEIROS",
+		"parcelas": 7,
+		"nome": "Honório Castelo Branco",
+		"CPF": "25465677643",
+		"bancoRecebimento": "Banco do Brasil",
+		"bancoPagamento": "Caixa Econômica",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 309.74913401491415
+	},
+	{
+		"numeroCartao": "53235779",
+		"nomeTitular": "MAIARA AMORÍN",
+		"parcelas": 8,
+		"nome": "Ofélia Cisneros",
+		"CPF": "65453761520",
+		"bancoRecebimento": "Santander",
+		"bancoPagamento": "Banco do Brasil",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 309.82578911799874
+	},
+	{
+		"numeroBoleto": "87519842",
+		"nome": "Ofélia Cisneros",
+		"CPF": "16674656607",
+		"bancoRecebimento": "Santander",
+		"bancoPagamento": "Banco do Brasil",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 250.45457149445156
+	},
+	{
+		"numeroCartao": "27567016",
+		"nomeTitular": "CARMINDA BECERRIL",
+		"parcelas": 11,
+		"nome": "Aniana Ochoa",
+		"CPF": "87478000207",
+		"bancoRecebimento": "Banco do Brasil",
+		"bancoPagamento": "Banco Safra",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 319.92526344587776
+	},
+	{
+		"numeroCartao": "45874625",
+		"nomeTitular": "RAFAEL CAMILLO",
+		"nome": "Daniela Graça",
+		"CPF": "16674656607",
+		"bancoRecebimento": "Santander",
+		"bancoPagamento": "Banco Safra",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 382.57709199817276
+	},
+	{
+		"numeroCartao": "57515797",
+		"nomeTitular": "HONÓRIO CASTELO BRANCO",
+		"nome": "Cecília Castelhano",
+		"CPF": "16674656607",
+		"bancoRecebimento": "Banco Safra",
+		"bancoPagamento": "Santander",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 475.69425487835406
+	},
+	{
+		"numeroBoleto": "14407126",
+		"nome": "Serafina Inácio",
+		"CPF": "13234771286",
+		"bancoRecebimento": "Banco do Brasil",
+		"bancoPagamento": "Banco do Brasil",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 115.200312313957
+	},
+	{
+		"numeroBoleto": "56164025",
+		"nome": "Daniela Graça",
+		"CPF": "85767184488",
+		"bancoRecebimento": "Banco do Brasil",
+		"bancoPagamento": "Banco do Brasil",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 20.968202641307776
+	},
+	{
+		"numeroBoleto": "79724493",
+		"nome": "Honório Castelo Branco",
+		"CPF": "45074358892",
+		"bancoRecebimento": "Itaú",
+		"bancoPagamento": "Itaú",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 390.8154523552454
+	},
+	{
+		"numeroCartao": "45985631",
+		"nomeTitular": "CARMINDA BECERRIL",
+		"parcelas": 2,
+		"nome": "Guiomar Marrero",
+		"CPF": "69607117360",
+		"bancoRecebimento": "Banco Safra",
+		"bancoPagamento": "Caixa Econômica",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 480.8903636066018
+	},
+	{
+		"numeroCartao": "53229625",
+		"nomeTitular": "HONÓRIO CASTELO BRANCO",
+		"parcelas": 7,
+		"nome": "Carminda Becerril",
+		"CPF": "87478000207",
+		"bancoRecebimento": "Caixa Econômica",
+		"bancoPagamento": "Banco do Brasil",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 424.7347361037149
+	},
+	{
+		"numeroCartao": "51314252",
+		"nomeTitular": "RAFAEL CAMILLO",
+		"nome": "Carminda Becerril",
+		"CPF": "41057727598",
+		"bancoRecebimento": "Caixa Econômica",
+		"bancoPagamento": "Bradesco",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 213.10678849732113
+	},
+	{
+		"numeroCartao": "98142668",
+		"nomeTitular": "ELSA PIRATININGA",
+		"nome": "Adelaide Carvalhaes",
+		"CPF": "16674656607",
+		"bancoRecebimento": "Bradesco",
+		"bancoPagamento": "Banco Safra",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 177.4994036668195
+	},
+	{
+		"numeroCartao": "16317557",
+		"nomeTitular": "HONÓRIO CASTELO BRANCO",
+		"nome": "Sidónio Fraga",
+		"CPF": "27310563042",
+		"bancoRecebimento": "Itaú",
+		"bancoPagamento": "Bradesco",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 374.2459310558947
+	},
+	{
+		"numeroBoleto": "46972070",
+		"nome": "Daniela Graça",
+		"CPF": "12142626190",
+		"bancoRecebimento": "Santander",
+		"bancoPagamento": "Santander",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 420.7872452953222
+	},
+	{
+		"numeroBoleto": "14594566",
+		"nome": "Viriato Ayres",
+		"CPF": "24556234166",
+		"bancoRecebimento": "Banco do Brasil",
+		"bancoPagamento": "Banco Safra",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 296.8325670961906
+	},
+	{
+		"numeroBoleto": "25797616",
+		"nome": "Cecília Castelhano",
+		"CPF": "27310563042",
+		"bancoRecebimento": "Banco do Brasil",
+		"bancoPagamento": "Bradesco",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 219.58360321823838
+	},
+	{
+		"numeroBoleto": "45723157",
+		"nome": "Cecília Castelhano",
+		"CPF": "87478000207",
+		"bancoRecebimento": "Banco Safra",
+		"bancoPagamento": "Santander",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 192.7996925092736
+	},
+	{
+		"numeroBoleto": "44989272",
+		"nome": "Nádia Fernández",
+		"CPF": "13234771286",
+		"bancoRecebimento": "Bradesco",
+		"bancoPagamento": "Santander",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 157.7839861503269
+	},
+	{
+		"numeroCartao": "52334745",
+		"nomeTitular": "LIEDSON LAGO",
+		"parcelas": 4,
+		"nome": "Zózimo Aragón",
+		"CPF": "70128756233",
+		"bancoRecebimento": "Santander",
+		"bancoPagamento": "Santander",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 336.60391220692
+	},
+	{
+		"numeroBoleto": "23709359",
+		"nome": "Sidónio Fraga",
+		"CPF": "18251384273",
+		"bancoRecebimento": "Santander",
+		"bancoPagamento": "Banco do Brasil",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 316.1991516577269
+	},
+	{
+		"numeroBoleto": "45164314",
+		"nome": "Liedson Lago",
+		"CPF": "16104178448",
+		"bancoRecebimento": "Banco Safra",
+		"bancoPagamento": "Bradesco",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 385.277200590081
+	},
+	{
+		"numeroCartao": "25601431",
+		"nomeTitular": "CECÍLIA CASTELHANO",
+		"parcelas": 7,
+		"nome": "Milu Díaz",
+		"CPF": "73366162759",
+		"bancoRecebimento": "Itaú",
+		"bancoPagamento": "Santander",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 45.451307125874195
+	},
+	{
+		"numeroBoleto": "33351425",
+		"nome": "Adelaide Carvalhaes",
+		"CPF": "46708681102",
+		"bancoRecebimento": "Santander",
+		"bancoPagamento": "Banco do Brasil",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 317.7850524089296
+	},
+	{
+		"numeroCartao": "55895696",
+		"nomeTitular": "MILENA INFANTE",
+		"nome": "Sidónio Fraga",
+		"CPF": "02010745400",
+		"bancoRecebimento": "Caixa Econômica",
+		"bancoPagamento": "Itaú",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 299.8620851636237
+	},
+	{
+		"numeroCartao": "26576561",
+		"nomeTitular": "APUÃ CASTELO",
+		"parcelas": 9,
+		"nome": "Viriato Ayres",
+		"CPF": "18251384273",
+		"bancoRecebimento": "Itaú",
+		"bancoPagamento": "Bradesco",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 401.59252216539795
+	},
+	{
+		"numeroBoleto": "45162544",
+		"nome": "Aniana Ochoa",
+		"CPF": "69607117360",
+		"bancoRecebimento": "Bradesco",
+		"bancoPagamento": "Banco Safra",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 339.57983464381897
+	},
+	{
+		"numeroCartao": "46318116",
+		"nomeTitular": "LAÍS FELGUEIRAS",
+		"parcelas": 6,
+		"nome": "Carminda Becerril",
+		"CPF": "50845738429",
+		"bancoRecebimento": "Banco Safra",
+		"bancoPagamento": "Caixa Econômica",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 251.71288187586717
+	},
+	{
+		"numeroBoleto": "45234141",
+		"nome": "Carminda Becerril",
+		"CPF": "23258743541",
+		"bancoRecebimento": "Banco Safra",
+		"bancoPagamento": "Santander",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 8.380740956230259
+	},
+	{
+		"numeroBoleto": "33589835",
+		"nome": "Viriato Ayres",
+		"CPF": "50232043752",
+		"bancoRecebimento": "Santander",
+		"bancoPagamento": "Bradesco",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 44.639430594474675
+	},
+	{
+		"numeroCartao": "92407158",
+		"nomeTitular": "AJURICABA ALDEIA",
+		"nome": "Serafina Inácio",
+		"CPF": "25465677643",
+		"bancoRecebimento": "Banco Safra",
+		"bancoPagamento": "Bradesco",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 134.37023523831738
+	},
+	{
+		"numeroCartao": "59149972",
+		"nomeTitular": "HONÓRIO CASTELO BRANCO",
+		"parcelas": 4,
+		"nome": "Apuã Castelo",
+		"CPF": "15066274391",
+		"bancoRecebimento": "Itaú",
+		"bancoPagamento": "Itaú",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 495.91133662258125
+	},
+	{
+		"numeroCartao": "61838951",
+		"nomeTitular": "RAFAEL CAMILLO",
+		"nome": "Ajuricaba Aldeia",
+		"CPF": "25465677643",
+		"bancoRecebimento": "Banco Safra",
+		"bancoPagamento": "Caixa Econômica",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 124.8379980589147
+	},
+	{
+		"numeroCartao": "73815666",
+		"nomeTitular": "SANDOVAL FÉLIX",
+		"parcelas": 12,
+		"nome": "Apuã Castelo",
+		"CPF": "65453761520",
+		"bancoRecebimento": "Itaú",
+		"bancoPagamento": "Banco do Brasil",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 241.6750039808569
+	},
+	{
+		"numeroCartao": "47752631",
+		"nomeTitular": "FRANCISCA VALLE",
+		"parcelas": 10,
+		"nome": "Apuã Castelo",
+		"CPF": "23258743541",
+		"bancoRecebimento": "Banco do Brasil",
+		"bancoPagamento": "Banco Safra",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 68.47311021035596
+	},
+	{
+		"numeroCartao": "68669268",
+		"nomeTitular": "ANIANA OCHOA",
+		"nome": "Nádia Fernández",
+		"CPF": "25465677643",
+		"bancoRecebimento": "Banco Safra",
+		"bancoPagamento": "Banco Safra",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 69.0705168230863
+	},
+	{
+		"numeroCartao": "69651631",
+		"nomeTitular": "SANDOVAL FÉLIX",
+		"parcelas": 1,
+		"nome": "Rafael Camillo",
+		"CPF": "24556234166",
+		"bancoRecebimento": "Caixa Econômica",
+		"bancoPagamento": "Banco Safra",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 65.77832649968379
+	},
+	{
+		"numeroBoleto": "56356851",
+		"nome": "Elsa Piratininga",
+		"CPF": "87478000207",
+		"bancoRecebimento": "Santander",
+		"bancoPagamento": "Banco do Brasil",
+		"data": "Sep 1, 2018 11:54:13 PM",
+		"valor": 281.75865414362704
+	}
+]
