@@ -30,7 +30,7 @@ public class Remessa {
 		this.numeroBoleto = numeroBoleto;
 	}
 	
-	// ________MÉTODOS GET________
+	// ________MÃ‰TODOS GET________
 	
 	public String getNome() {
 		return nome;
@@ -74,4 +74,3 @@ public class Remessa {
 	
 	
 }
-
