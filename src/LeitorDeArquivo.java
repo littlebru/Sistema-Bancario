@@ -1,7 +1,9 @@
 import java.io.BufferedReader;
 import java.io.File;
-import java.io.FileReader;
+import java.io.FileInputStream;
 import java.io.IOException;
+import java.io.InputStreamReader;
+import java.io.Reader;
 import java.util.ArrayList;
 
 public abstract class LeitorDeArquivo {
@@ -11,8 +13,7 @@ public abstract class LeitorDeArquivo {
 	protected String caminhoDoArquivo;
 	protected StringBuffer conteudo;
 	protected String linha;
-	protected InterfaceDeImpressao impressor;
-	protected VerificadorDeCPF verfiCpf;
+	//protected InterfaceDeImpressao impressor;
 	
 	public LeitorDeArquivo(String caminho){
 		this.caminhoDoArquivo = caminho;
@@ -20,15 +21,19 @@ public abstract class LeitorDeArquivo {
 
 	// metodo permite realizar a leitura de arquivos diversos
 	public StringBuffer lerArquivo(){
-
+	
 		File f = new File(this.caminhoDoArquivo);
+		System.out.println("-------------------------------------------");
+		System.out.println("ARQUIVO LIDO: " + f );
+		System.out.println("-------------------------------------------");
 		
 		this.conteudo = new StringBuffer();
 
 		//EFETUANDO A LEITURA
 		try {
-			FileReader fr = new FileReader(f);
-			BufferedReader br = new BufferedReader(fr);
+			Reader reader = new InputStreamReader(new FileInputStream(f), "UTF-8");
+			// Lê os arquivos com os formatos UTF-8
+			BufferedReader br = new BufferedReader(reader);
 
 			//ENQUANTO EXISTE DADOS CONTINUA IMPRIMINDO
 			while ((linha = br.readLine()) != null) {
