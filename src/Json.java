@@ -20,8 +20,6 @@ public class Json extends LeitorDeArquivo {
 		}.getType();
 
 		remessasJson = g.fromJson(json, lista);
-		System.out.println("Arquivo lido: arquivos/remessa.json\n");
-		System.out.println("---------------------------------------------------------\n");
 	}
 
 //	public void imprimeClienteEmPosicaoEspecifica(int posicao) {
@@ -55,23 +53,23 @@ public class Json extends LeitorDeArquivo {
 				if (res.getNumeroBoleto() != null) {
 					// Se o valor do boleto não é nulo
 					// Então o cliente pagou com boleto
-					System.out.println("\n- PAGO COM BOLETO -");
-					System.out.println("Nº BOLETO: " + res.getNumeroBoleto() + '\n');
+					System.out.println("\n\n- PAGO COM BOLETO -");
+					System.out.println("Nº BOLETO: " + res.getNumeroBoleto());
 				} else if (res.getParcelas() == 0) {
 					// Se o cliente não pagou com boleto então pagou com cartão
 					// Se não tem a quantidade de parcelas
 					// Então o cliente pagou com cartão de Débito
-					System.out.println("\n- PAGO COM CARTÃO DE DÉBITO -");
+					System.out.println("\n\n- PAGO COM CARTÃO DE DÉBITO -");
 					System.out.println("NOME TITULAR DO CARTÃO: " + res.getNomeTitular());
-					System.out.println("Nº CARTÃO: " + res.getNumeroCartao() + '\n');
+					System.out.println("Nº CARTÃO: " + res.getNumeroCartao());
 				}
 
 				else {
 					// Se não o cliente pagou com o cartão de Crédito
-					System.out.println("\n- PAGO COM CARTÃO DE CRÉDITO -");
+					System.out.println("\n\n- PAGO COM CARTÃO DE CRÉDITO -");
 					System.out.println("NOME TITULAR DO CARTÃO: " + res.getNomeTitular());
 					System.out.println("Nº CARTÃO: " + res.getNumeroCartao());
-					System.out.println("QNT. PARCELAS: " + res.getParcelas() + '\n');
+					System.out.println("QNT. PARCELAS: " + res.getParcelas());
 				}
 			} else {
 				System.out.println("---- CPF INVÁLIDO ----\n");
